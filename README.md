@@ -15,7 +15,7 @@ BEETLES are coming to destroy the Earth!
 
 Shoot down the invading BEETLES before they reach the planet, but beware of the WASPS and ENEMY SHIPS that will try to destroy you first.
 
-<img src="./assets/StarshipScreenshot.png" width="100%" alt="Cherry Blossom Banner"/>
+<img src="./assets/StarshipScreenShot.png" width="100%" alt="Cherry Blossom Banner"/>
 
 You lose if:
 
