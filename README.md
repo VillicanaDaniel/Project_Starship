@@ -27,7 +27,7 @@ Between waves, choose upgrades to strengthen your ship and prepare for increasin
 Survive 6 waves to win the game :)
 
 ---
-##Controls
+## Controls
 ## Keyboard
 ### Attract Controls
 Space	= Start Game \
