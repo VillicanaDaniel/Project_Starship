@@ -2,9 +2,9 @@
 
 STARSHIP
 
-<img src="./assets/cherryBlossom.png" width="100%" alt="Cherry Blossom Banner"/>
+<img src="./assets/StarshipTitleScreen.png" width="100%" alt="Cherry Blossom Banner"/>
 
-<br>
+</div>
 A wave-based arcade space shooter where you defend Earth from invading alien forces.
 
 Overview
