@@ -7,6 +7,8 @@ STARSHIP
 A wave-based arcade space shooter where you defend Earth from invading alien forces.
 </div>
 
+---
+
 Overview
 
 BEETLES are coming to destroy the Earth!
@@ -21,6 +23,9 @@ You run out of lives
 Between waves, choose upgrades to strengthen your ship and prepare for increasingly difficult enemies.
 
 Survive 6 waves to win the game :)
+
+---
+Controls
 
 Attract Controls
 Keyboard
