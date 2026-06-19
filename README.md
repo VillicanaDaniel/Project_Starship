@@ -29,8 +29,8 @@ Survive 6 waves to win the game :)
 ---
 Controls
 
-Attract Controls \ 
-Keyboard \ 
+Attract Controls \
+Keyboard \
 Space	= Start Game \
 ESC	= Exit Application \
 Controller \
