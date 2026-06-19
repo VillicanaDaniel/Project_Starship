@@ -34,8 +34,8 @@ Keyboard \
 Space	= Start Game \
 ESC	= Exit Application \
 Controller \
-Start	= Start Game \ 
-B	= Exit Application \ 
+Start	= Start Game \
+B	= Exit Application \
 In-Game Controls \
 Keyboard \
 E	 = Move Forward \
