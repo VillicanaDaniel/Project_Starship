@@ -46,7 +46,7 @@ Space	= Shoot \
 N	= Respawn \
 P	= Pause \
 ESC	= Return to Start Screen / Quit \
-Shift = (if unlocked)	Dash \
+Shift = (if unlocked)	Dash
 
 Note: Dash becomes available after obtaining the Dash upgrade.
 
