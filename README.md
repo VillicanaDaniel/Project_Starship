@@ -1,6 +1,6 @@
 <div align="center">
 
-## STARSHIP
+# STARSHIP
 
 <img src="./assets/StarshipTitleScreen.png" width="100%" alt="Cherry Blossom Banner"/>
 
@@ -29,13 +29,11 @@ Survive 6 waves to win the game :)
 ---
 ##Controls
 ## Keyboard
-## Attract Controls
+### Attract Controls
 Space	= Start Game \
 ESC	= Exit Application \
-Controller \
-Start	= Start Game \
-B	= Exit Application \
-## In-Game Controls
+
+### In-Game Controls
 E	 = Move Forward \
 D	= Move Backward \
 S	= Turn Left \
@@ -49,11 +47,11 @@ Shift = (if unlocked)	Dash
 Note: Dash becomes available after obtaining the Dash upgrade.
 
 ## Controller
-## Attract Controls
+### Attract Controls
 Start	= Start Game \
 B	= Exit Application \
 
-## In-Game Controls
+### In-Game Controls
 Left Thumbstick	= Move / Turn \
 A	= Shoot \
 B	= Respawn \
@@ -65,7 +63,8 @@ T	= Slow Motion \
 O	= Step Frame \
 F1	= Toggle Debug View \
 F8	= Reset Game \
-Features \
+
+## Features
 6 Waves of Increasing Difficulty \
 Multiple Enemy Types \
 Beetles \
