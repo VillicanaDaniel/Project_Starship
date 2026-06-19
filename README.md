@@ -27,17 +27,15 @@ Between waves, choose upgrades to strengthen your ship and prepare for increasin
 Survive 6 waves to win the game :)
 
 ---
-Controls
-
-Attract Controls \
-Keyboard \
+##Controls
+## Keyboard
+## Attract Controls
 Space	= Start Game \
 ESC	= Exit Application \
 Controller \
 Start	= Start Game \
 B	= Exit Application \
-In-Game Controls \
-Keyboard \
+## In-Game Controls
 E	 = Move Forward \
 D	= Move Backward \
 S	= Turn Left \
@@ -50,7 +48,12 @@ Shift = (if unlocked)	Dash
 
 Note: Dash becomes available after obtaining the Dash upgrade.
 
-Controller
+## Controller
+## Attract Controls
+Start	= Start Game \
+B	= Exit Application \
+
+## In-Game Controls
 Left Thumbstick	= Move / Turn \
 A	= Shoot \
 B	= Respawn \
