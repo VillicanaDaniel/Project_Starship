@@ -9,7 +9,7 @@ A wave-based arcade space shooter where you defend Earth from invading alien for
 
 ---
 
-## Overview
+# Overview
 
 BEETLES are coming to destroy the Earth!
 
@@ -27,7 +27,7 @@ Between waves, choose upgrades to strengthen your ship and prepare for increasin
 Survive 6 waves to win the game :)
 
 ---
-## Controls
+# Controls
 ## Keyboard
 ### Attract Controls
 Space	= Start Game \
@@ -64,7 +64,7 @@ O	= Step Frame \
 F1	= Toggle Debug View \
 F8	= Reset Game \
 
-## Features
+# Features
 6 Waves of Increasing Difficulty \
 Multiple Enemy Types \
 Beetles \
