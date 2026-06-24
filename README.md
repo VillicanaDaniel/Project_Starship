@@ -31,7 +31,7 @@ Survive 6 waves to win the game :)
 ## Keyboard
 ### Attract Controls
 Space	= Start Game \
-ESC	= Exit Application \
+ESC	= Exit Application
 
 ### In-Game Controls
 E	 = Move Forward \
@@ -49,7 +49,7 @@ Note: Dash becomes available after obtaining the Dash upgrade.
 ## Controller
 ### Attract Controls
 Start	= Start Game \
-B	= Exit Application \
+B	= Exit Application
 
 ### In-Game Controls
 Left Thumbstick	= Move / Turn \
@@ -62,7 +62,7 @@ P	= Pause \
 T	= Slow Motion \
 O	= Step Frame \
 F1	= Toggle Debug View \
-F8	= Reset Game \
+F8	= Reset Game
 
 # Features
 6 Waves of Increasing Difficulty \
@@ -74,6 +74,6 @@ Upgrade System Between Waves \
 Dash Ability \
 Earth Defense Objective \
 Keyboard and Controller Support \
-Debug Tools for Development \
+Debug Tools for Development
 
 Good luck, pilot. 🫡
