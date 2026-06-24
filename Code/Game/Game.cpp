@@ -480,10 +480,14 @@ void Game::UpdateCameras()
 
 	float shakeX = g_rng->RollRandomFloatInRange(-m_screenShakeAmount, m_screenShakeAmount);
 	float shakeY = g_rng->RollRandomFloatInRange(-m_screenShakeAmount, m_screenShakeAmount);
-	m_worldCamera->Translate2D(Vec2(shakeX, shakeY));
+	Vec2 shakeOffset(shakeX, shakeY);
+
+	m_screenCamera->SetOrthographicView(Vec2(0.f, 0.f), Vec2(WORLD_SIZE_X, WORLD_SIZE_Y));
+	m_worldCamera->SetOrthographicView(viewMins + shakeOffset, viewMaxs + shakeOffset);
 
 	constexpr float MAX_SCREEN_SHAKE = 5.f;
-	constexpr float	SCREEN_SHAKE_REDUCTION_PER_SEC = 5.f;
+	constexpr float SCREEN_SHAKE_REDUCTION_PER_SEC = 5.f;
+
 	m_screenShakeAmount -= SCREEN_SHAKE_REDUCTION_PER_SEC * dt;
 	m_screenShakeAmount = GetClamped(m_screenShakeAmount, 0.f, MAX_SCREEN_SHAKE);
 }
